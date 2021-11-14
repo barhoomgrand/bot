@@ -54,7 +54,7 @@ Bin: $bin
 Brand: $brand
 Level: $level
 Bank: $bank
-Country: $country $flag
+Country: $country $flag ❤️
 Type:$type
 Checked By @algrandson ***");
     }
